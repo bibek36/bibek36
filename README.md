@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Bibek Mondal<br><br>💻 I’m a passionate software developer currently focusing on back-end development.<br>📊 I have experience in data science and have worked on various innovative projects.<br>🔍 I enjoy solving complex problems and have solved over 500 problems on LeetCode, sharpening my problem-solving skills.<br>🚀 I’m always excited to collaborate on impactful open-source projects, explore new technologies, and grow as a developer.<br><br>📫 Let’s connect!
+👋 Hi there! I'm Bibek Mondal<br><br>💻 I’m a passionate software developer currently focusing on AI/ML development.<br>📊 I have experience in data science and have worked on various innovative projects.<br>🔍 I enjoy solving complex problems and have solved over 700 problems on LeetCode, sharpening my problem-solving skills.<br>🚀 I’m always excited to collaborate on impactful open-source projects, explore new technologies, and grow as a developer.<br><br>📫 Let’s connect!
 
 
 ## 🌐 Socials:
